@@ -1,0 +1,50 @@
+ .select-data {
+     background-color: aqua;
+     padding: 6px;
+     border: 1px solid #ebb840;
+     outline: none;
+     width: 14rem;
+     margin-right: 4rem;
+     color: black;
+     border-top-right-radius: 10px;
+     border-top-left-radius: 10px;
+     box-shadow: 10px 10px lightblue;
+     cursor: pointer;
+ }
+
+ .titel {
+     box-shadow: 5px 5px rgb(194, 187, 187);
+ }
+
+ .filter-div {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     width: 100%;
+ }
+
+ .parent {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     padding: 5px;
+     background-color: rgb(172, 214, 214);
+
+ }
+
+ .chart-div {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     width: 100%;
+     margin: 50px;
+     background-color: paleturquoise;
+     gap: 3px;
+ }
+
+
+ .searchText {
+
+     cursor: text;
+ }
